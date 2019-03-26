@@ -1,0 +1,18 @@
+{
+  "name": "auto_write",
+  "version": "1.0.0",
+  "description": "Auto to write the nqu teaching assessment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auto",
+    "write"
+  ],
+  "author": "blackfloat",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}
